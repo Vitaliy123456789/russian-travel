@@ -1,0 +1,11 @@
+.place__website{
+  grid-area: website;
+  align-self: end;
+}
+@media (max-width: 767px){
+.place__website{
+  align-self: flex-start;
+  padding: 0 16px;
+  margin: 0;
+}
+}

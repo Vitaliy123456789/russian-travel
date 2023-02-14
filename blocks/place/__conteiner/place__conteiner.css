@@ -1,0 +1,14 @@
+.place__conteiner{
+  grid-area: text;
+}
+@media (max-width: 1023px) {
+.place__conteiner{
+  margin-bottom: 73px;
+ }
+}
+@media (max-width: 767px){
+.place__conteiner{
+  padding: 0 16px;
+  margin-bottom: 0;
+ }
+}

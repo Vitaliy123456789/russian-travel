@@ -1,0 +1,22 @@
+.conteiner-places{
+  padding: 92px 148px;
+}
+@media (max-width: 1279px) {
+  .conteiner-places{
+    padding: 92px 48px;
+  }
+}
+@media (max-width: 1023px){
+  .conteiner-places{
+    padding: 88px 24px;
+  }
+  
+}
+@media (max-width: 767px){
+  .conteiner-places{
+    padding-top: 64px;
+    padding-bottom: 66px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}

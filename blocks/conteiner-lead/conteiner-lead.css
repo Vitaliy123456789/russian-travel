@@ -1,0 +1,13 @@
+.conteiner-lead{
+  padding: 0 48px;
+}
+@media (max-width: 1023px){
+  .conteiner-lead {
+    padding: 0;
+  }
+}
+@media (max-width: 767px){
+  .conteiner-lead {
+    padding: 0px;
+  }
+}
