@@ -1,3 +1,5 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/container/container.css);
 @import url(../blocks/conteiner-lead/conteiner-lead.css);
@@ -36,3 +38,4 @@
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__conteiner/place__conteiner.css);
+@import url(../blocks/header/__links/header__links.css);
