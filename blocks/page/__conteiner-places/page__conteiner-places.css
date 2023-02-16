@@ -1,19 +1,22 @@
-.conteiner-places{
+.page__conteiner-places{
   padding: 92px 148px;
 }
 @media (max-width: 1279px) {
-  .conteiner-places{
+  .page__conteiner-places{
     padding: 92px 48px;
   }
 }
 @media (max-width: 1023px){
-  .conteiner-places{
-    padding: 88px 24px;
+  .page__conteiner-places{
+    padding-top: 88px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 90px;
   }
   
 }
 @media (max-width: 767px){
-  .conteiner-places{
+  .page__conteiner-places{
     padding-top: 64px;
     padding-bottom: 66px;
     padding-left: 0;
