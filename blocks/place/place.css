@@ -7,7 +7,7 @@
       padding-top: 80px;
 }
 .place:first-child{
-padding-top: 0px;
+  padding-top: 0px;
 }
 @media (max-width: 1279px){
   .place{
@@ -27,7 +27,4 @@ padding-top: 0px;
     grid-gap: 0;
     padding-top: 50px;
 }
- .place:first-child{
-  padding-top: 0px;
- }
 }
