@@ -10,3 +10,8 @@
   margin-bottom: 12px;
   text-transform: uppercase;
 }
+@media (max-width: 767px){
+  .place__url-heading{
+    margin-top: 32px;
+  }
+}
